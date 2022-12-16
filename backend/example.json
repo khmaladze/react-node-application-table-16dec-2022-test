@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "type_name",
+    "email": "type_email",
+    "gender": "male",
+    "address": {
+      "street": "street",
+      "city": "city"
+    },
+    "phone": "type_phone"
+  },
+  {
+    "id": 2,
+    "name": "type_name",
+    "email": "type_email",
+    "gender": "female",
+    "address": {
+      "street": "street",
+      "city": "city"
+    },
+    "phone": "type_phone"
+  }
+]
