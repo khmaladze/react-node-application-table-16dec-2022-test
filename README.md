@@ -1,7 +1,3 @@
-# COMPANY TASK
-
-Simple React application
-
 ## Installation
 
 i use:  
